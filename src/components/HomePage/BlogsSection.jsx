@@ -25,7 +25,7 @@ const BlogsSection = () => {
                 <SwiperSlide>
                     <div className="box">
                         <div className="image">
-                            <img src="./blog1.jpg" alt="" />
+                            <img src="/Read-that-book/blog1.jpg" alt="" />
                         </div>
                         <div className="content">
                             <h3>blog title goes here</h3>
@@ -37,7 +37,7 @@ const BlogsSection = () => {
                     <SwiperSlide>
                     <div className="box">
                         <div className="image">
-                            <img src="./blog2.jpg" alt="" />
+                            <img src="/Read-that-book/blog2.jpg" alt="" />
                         </div>
                         <div className="content">
                             <h3>blog title goes here</h3>
@@ -49,7 +49,7 @@ const BlogsSection = () => {
                     <SwiperSlide>
                     <div className="box">
                         <div className="image">
-                            <img src="./blog3.jpg" alt="" />
+                            <img src="/Read-that-book/blog3.jpg" alt="" />
                         </div>
                         <div className="content">
                             <h3>blog title goes here</h3>
@@ -61,7 +61,7 @@ const BlogsSection = () => {
                     <SwiperSlide>
                     <div className="box">
                         <div className="image">
-                            <img src="./blog4.jpg" alt="" />
+                            <img src="/Read-that-book/blog4.jpg" alt="" />
                         </div>
                         <div className="content">
                             <h3>blog title goes here</h3>
@@ -73,7 +73,7 @@ const BlogsSection = () => {
                     <SwiperSlide>
                     <div className="box">
                         <div className="image">
-                            <img src="./blog5.jpg" alt="" />
+                            <img src="/Read-that-book/blog5.jpg" alt="" />
                         </div>
                         <div className="content">
                             <h3>blog title goes here</h3>

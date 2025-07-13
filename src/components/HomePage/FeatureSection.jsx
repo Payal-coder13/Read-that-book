@@ -45,7 +45,7 @@ const FeatureSection = () => {
                         <a href= '#' className=''><FontAwesomeIcon icon={faEye}/></a>
                     </div>
                     <div className="image">
-                        <img src='./book1.jpg' alt=''/>
+                        <img src='/Read-that-book/book1.jpg' alt=''/>
                     </div>
                     <div className="content">
                         <h3>featured book</h3>
@@ -62,7 +62,7 @@ const FeatureSection = () => {
                         <a href= '#' className=''><FontAwesomeIcon icon={faEye}/></a>
                     </div>
                     <div className="image">
-                        <img src='./book2.jpg' alt=''/>
+                        <img src='/Read-that-book/book2.jpg' alt=''/>
                     </div>
                     <div className="content">
                         <h3>featured book</h3>
@@ -79,7 +79,7 @@ const FeatureSection = () => {
                         <a href= '#' className=''><FontAwesomeIcon icon={faEye}/></a>
                     </div>
                     <div className="image">
-                        <img src='./book3.jpg' alt=''/>
+                        <img src='/Read-that-book/book3.jpg' alt=''/>
                     </div>
                     <div className="content">
                         <h3>featured book</h3>
@@ -96,7 +96,7 @@ const FeatureSection = () => {
                         <a href= '#' className=''><FontAwesomeIcon icon={faEye}/></a>
                     </div>
                     <div className="image">
-                        <img src='./book4.png' alt=''/>
+                        <img src='/Read-that-book/book4.png' alt=''/>
                     </div>
                     <div className="content">
                         <h3>featured book</h3>
@@ -113,7 +113,7 @@ const FeatureSection = () => {
                         <a href= '#' className=''><FontAwesomeIcon icon={faEye}/></a>
                     </div>
                     <div className="image">
-                        <img src='./book5.png' alt=''/>
+                        <img src='/Read-that-book/book5.png' alt=''/>
                     </div>
                     <div className="content">
                         <h3>featured book</h3>
@@ -130,7 +130,7 @@ const FeatureSection = () => {
                         <a href= '#' className=''><FontAwesomeIcon icon={faEye}/></a>
                     </div>
                     <div className="image">
-                        <img src='./book6.png' alt=''/>
+                        <img src='/Read-that-book/book6.png' alt=''/>
                     </div>
                     <div className="content">
                         <h3>featured book</h3>
@@ -147,7 +147,7 @@ const FeatureSection = () => {
                         <a href= '#' className=''><FontAwesomeIcon icon={faEye}/></a>
                     </div>
                     <div className="image">
-                        <img src='./book7.png' alt=''/>
+                        <img src='/Read-that-book/book7.png' alt=''/>
                     </div>
                     <div className="content">
                         <h3>featured book</h3>
@@ -164,7 +164,7 @@ const FeatureSection = () => {
                         <a href= '#' className=''><FontAwesomeIcon icon={faEye}/></a>
                     </div>
                     <div className="image">
-                        <img src='./book1.jpg' alt=''/>
+                        <img src='/Read-that-book/book1.jpg' alt=''/>
                     </div>
                     <div className="content">
                         <h3>featured book</h3>
@@ -181,7 +181,7 @@ const FeatureSection = () => {
                         <a href= '#' className=''><FontAwesomeIcon icon={faEye}/></a>
                     </div>
                     <div className="image">
-                        <img src='./book2.jpg' alt=''/>
+                        <img src='/Read-that-book/book2.jpg' alt=''/>
                     </div>
                     <div className="content">
                         <h3>featured book</h3>
@@ -198,7 +198,7 @@ const FeatureSection = () => {
                         <a href= '#' className=''><FontAwesomeIcon icon={faEye}/></a>
                     </div>
                     <div className="image">
-                        <img src='./book3.jpg' alt=''/>
+                        <img src='/Read-that-book/book3.jpg' alt=''/>
                     </div>
                     <div className="content">
                         <h3>featured book</h3>
