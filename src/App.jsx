@@ -18,7 +18,7 @@ function App() {
     <Header2/>
     <Routes>
 
-      <Route path='/' element={<Homepage/>}/>
+      <Route path='/Read-that-book' element={<Homepage/>}/>
 
       <Route path='/login' element={<Login/>}/>
      
