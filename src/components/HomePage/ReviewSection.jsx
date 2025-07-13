@@ -27,7 +27,7 @@ const ReviewSection = () => {
                 >
                 <SwiperSlide>
                 <div className="box">
-                    <img src="/client1.jpg" alt="" />
+                    <img src="./client1.jpg" alt="" />
                     <h3>john doe</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia porro quis, corporis explicabo, voluptas, temporibus maiores amet sequi voluptate atque ad cum eum ratione facere soluta magnam quasi modi culpa.</p>
                     <div className="stars">
@@ -41,7 +41,7 @@ const ReviewSection = () => {
                 </SwiperSlide>
                  <SwiperSlide>
                 <div className="box">
-                    <img src="/client2.jpg" alt="" />
+                    <img src="./client2.jpg" alt="" />
                     <h3>john doe</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia porro quis, corporis explicabo, voluptas, temporibus maiores amet sequi voluptate atque ad cum eum ratione facere soluta magnam quasi modi culpa.</p>
                     <div className="stars">
@@ -55,7 +55,7 @@ const ReviewSection = () => {
                 </SwiperSlide>
                  <SwiperSlide>
                 <div className="box">
-                    <img src="/client3.jpg" alt="" />
+                    <img src="./client3.jpg" alt="" />
                     <h3>john doe</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia porro quis, corporis explicabo, voluptas, temporibus maiores amet sequi voluptate atque ad cum eum ratione facere soluta magnam quasi modi culpa.</p>
                     <div className="stars">
@@ -69,7 +69,7 @@ const ReviewSection = () => {
                 </SwiperSlide>
                  <SwiperSlide>
                 <div className="box">
-                    <img src="/client4.jpg" alt="" />
+                    <img src="./client4.jpg" alt="" />
                     <h3>john doe</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia porro quis, corporis explicabo, voluptas, temporibus maiores amet sequi voluptate atque ad cum eum ratione facere soluta magnam quasi modi culpa.</p>
                     <div className="stars">
@@ -83,7 +83,7 @@ const ReviewSection = () => {
                 </SwiperSlide>
                  <SwiperSlide>
                 <div className="box">
-                    <img src="/client5.jpg" alt="" />
+                    <img src="./client5.jpg" alt="" />
                     <h3>john doe</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia porro quis, corporis explicabo, voluptas, temporibus maiores amet sequi voluptate atque ad cum eum ratione facere soluta magnam quasi modi culpa.</p>
                     <div className="stars">

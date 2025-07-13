@@ -28,7 +28,7 @@ const ArrivalsSection = () => {
                 <SwiperSlide>
                 <a href="#" className="box">
                     <div className="image">
-                        <img src='/book1.jpg' alt=''/>
+                        <img src='./book1.jpg' alt=''/>
                     </div>
                     <div className="content">
                         <h3>new arrivals</h3>
@@ -46,7 +46,7 @@ const ArrivalsSection = () => {
                 <SwiperSlide>
                 <a href="#" className="box">
                     <div className="image">
-                        <img src='/book2.jpg' alt=''/>
+                        <img src='./book2.jpg' alt=''/>
                     </div>
                     <div className="content">
                         <h3>new arrivals</h3>
@@ -64,7 +64,7 @@ const ArrivalsSection = () => {
                 <SwiperSlide>
                 <a href="#" className="box">
                     <div className="image">
-                        <img src='/book3.jpg' alt=''/>
+                        <img src='./book3.jpg' alt=''/>
                     </div>
                     <div className="content">
                         <h3>new arrivals</h3>
@@ -82,7 +82,7 @@ const ArrivalsSection = () => {
                 <SwiperSlide>
                 <a href="#" className="box">
                     <div className="image">
-                        <img src='/book4.png' alt=''/>
+                        <img src='./book4.png' alt=''/>
                     </div>
                     <div className="content">
                         <h3>new arrivals</h3>
@@ -100,7 +100,7 @@ const ArrivalsSection = () => {
                 <SwiperSlide>
                 <a href="#" className="box">
                     <div className="image">
-                        <img src='/book5.png' alt=''/>
+                        <img src='./book5.png' alt=''/>
                     </div>
                     <div className="content">
                         <h3>new arrivals</h3>
@@ -131,7 +131,7 @@ const ArrivalsSection = () => {
                 <SwiperSlide>
                  <a href="#" className="box">
                     <div className="image">
-                        <img src='/book6.png' alt=''/>
+                        <img src='./book6.png' alt=''/>
                     </div>
                     <div className="content">
                         <h3>new arrivals</h3>
@@ -149,7 +149,7 @@ const ArrivalsSection = () => {
                 <SwiperSlide>
                  <a href="#" className="box">
                     <div className="image">
-                        <img src='/book7.png' alt=''/>
+                        <img src='./book7.png' alt=''/>
                     </div>
                     <div className="content">
                         <h3>new arrivals</h3>
@@ -167,7 +167,7 @@ const ArrivalsSection = () => {
                 <SwiperSlide>
                 <a href="#" className="box">
                     <div className="image">
-                        <img src='/book1.jpg' alt=''/>
+                        <img src='./book1.jpg' alt=''/>
                     </div>
                     <div className="content">
                         <h3>new arrivals</h3>
@@ -185,7 +185,7 @@ const ArrivalsSection = () => {
                 <SwiperSlide>
                 <a href="#" className="box">
                     <div className="image">
-                        <img src='/book2.jpg' alt=''/>
+                        <img src='./book2.jpg' alt=''/>
                     </div>
                     <div className="content">
                         <h3>new arrivals</h3>
@@ -203,7 +203,7 @@ const ArrivalsSection = () => {
                 <SwiperSlide>
                 <a href="#" className="box">
                     <div className="image">
-                        <img src='/book3.jpg' alt=''/>
+                        <img src='./book3.jpg' alt=''/>
                     </div>
                     <div className="content">
                         <h3>new arrivals</h3>

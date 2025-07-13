@@ -28,12 +28,12 @@ const Home = () => {
                   640: { slidesPerView: 2 },
                   1024: { slidesPerView: 3}}}
                 >
-                   <SwiperSlide><a href='#'><img src='/book1.jpg'></img></a></SwiperSlide>
-                   <SwiperSlide><a href='#'><img src='/book2.jpg'></img></a></SwiperSlide>
-                   <SwiperSlide><a href='#'><img src='/book3.jpg'></img></a></SwiperSlide>
-                   <SwiperSlide><a href='#'><img src='/book4.png'></img></a></SwiperSlide>
-                   <SwiperSlide><a href='#'><img src='/book5.png'></img></a></SwiperSlide>
-                   <SwiperSlide><a href='#'><img src='/book6.png'></img></a></SwiperSlide>
+                   <SwiperSlide><a href='#'><img src='./book1.jpg'></img></a></SwiperSlide>
+                   <SwiperSlide><a href='#'><img src='./book2.jpg'></img></a></SwiperSlide>
+                   <SwiperSlide><a href='#'><img src='./book3.jpg'></img></a></SwiperSlide>
+                   <SwiperSlide><a href='#'><img src='./book4.png'></img></a></SwiperSlide>
+                   <SwiperSlide><a href='#'><img src='./book5.png'></img></a></SwiperSlide>
+                   <SwiperSlide><a href='#'><img src='./book6.png'></img></a></SwiperSlide>
                 </Swiper>
             </div>
         </div>

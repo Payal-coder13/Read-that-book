@@ -11,7 +11,7 @@ const DealsSection = () => {
             <a href="#" className='btn'>shop now</a>
         </div>
         <div className="image">
-            <img src='/shh-dont-tell-our-secret-anybody.png' alt=''/>
+            <img src='./shh-dont-tell-our-secret-anybody.png' alt=''/>
         </div>
     </section>
   )
